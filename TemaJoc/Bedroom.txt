@@ -1,0 +1,4 @@
+Door Hallway intellect 15
+Book Capra_cu_trei_iezi strength 14 intellect 2
+Statue Liberty dexterity 14 dexterity 2
+Enemy Vrajitoarea_urata strength 17

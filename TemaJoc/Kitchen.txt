@@ -1,0 +1,3 @@
+Door Hallway strength 15
+Door Bathroom dexterity 14
+Book Cartea_Junglei intellect 20 strength 2 

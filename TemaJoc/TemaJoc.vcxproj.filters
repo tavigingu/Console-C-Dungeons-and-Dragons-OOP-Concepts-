@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Clasa">
+      <UniqueIdentifier>{65ca6b44-4ce8-4b4f-a5b0-4f0b553eae89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Rasa">
+      <UniqueIdentifier>{cdad3a9a-0463-4572-a85f-49c98d18381c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Character">
+      <UniqueIdentifier>{96b3f5ad-c99e-439e-a58e-54a94c644511}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Environment">
+      <UniqueIdentifier>{fd2f1655-cc1d-4e62-ac63-52f342025dfa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\AbilitiesFiles">
+      <UniqueIdentifier>{4c866e69-ab68-4a3b-a56f-f66930499e24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Clasa">
+      <UniqueIdentifier>{f08674d2-9d4f-4455-9e00-aa1bde636667}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rasa">
+      <UniqueIdentifier>{13441f26-c4a2-47bd-a864-36814020b4f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Character">
+      <UniqueIdentifier>{135034d8-1b5f-4290-affa-a4549698f827}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\RoomsFiles">
+      <UniqueIdentifier>{e05e2a31-1319-4aee-bf15-a8b924cf876a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Environment">
+      <UniqueIdentifier>{9fdb5d2d-f5f8-458e-812a-1b7f6b1e60f8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MyException.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DungeonMaster.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AClasa.cpp">
+      <Filter>Source Files\Clasa</Filter>
+    </ClCompile>
+    <ClCompile Include="CFighter.cpp">
+      <Filter>Source Files\Clasa</Filter>
+    </ClCompile>
+    <ClCompile Include="CArcher.cpp">
+      <Filter>Source Files\Clasa</Filter>
+    </ClCompile>
+    <ClCompile Include="CWizard.cpp">
+      <Filter>Source Files\Clasa</Filter>
+    </ClCompile>
+    <ClCompile Include="ARasa.cpp">
+      <Filter>Source Files\Rasa</Filter>
+    </ClCompile>
+    <ClCompile Include="CGoblin.cpp">
+      <Filter>Source Files\Rasa</Filter>
+    </ClCompile>
+    <ClCompile Include="CElf.cpp">
+      <Filter>Source Files\Rasa</Filter>
+    </ClCompile>
+    <ClCompile Include="CHuman.cpp">
+      <Filter>Source Files\Rasa</Filter>
+    </ClCompile>
+    <ClCompile Include="Character.cpp">
+      <Filter>Source Files\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="Ability.cpp">
+      <Filter>Source Files\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="Atribute.cpp">
+      <Filter>Source Files\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyBuilder.cpp">
+      <Filter>Source Files\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="MainCharacterBuilder.cpp">
+      <Filter>Source Files\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="Room.cpp">
+      <Filter>Source Files\Environment</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>Source Files\Environment</Filter>
+    </ClCompile>
+    <ClCompile Include="Way.cpp">
+      <Filter>Source Files\Environment</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MyException.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DungeonMaster.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Dice.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AClasa.h">
+      <Filter>Header Files\Clasa</Filter>
+    </ClInclude>
+    <ClInclude Include="IClasa.h">
+      <Filter>Header Files\Clasa</Filter>
+    </ClInclude>
+    <ClInclude Include="CFighter.h">
+      <Filter>Header Files\Clasa</Filter>
+    </ClInclude>
+    <ClInclude Include="CWizard.h">
+      <Filter>Header Files\Clasa</Filter>
+    </ClInclude>
+    <ClInclude Include="CArcher.h">
+      <Filter>Header Files\Clasa</Filter>
+    </ClInclude>
+    <ClInclude Include="IRasa.h">
+      <Filter>Header Files\Rasa</Filter>
+    </ClInclude>
+    <ClInclude Include="ARasa.h">
+      <Filter>Header Files\Rasa</Filter>
+    </ClInclude>
+    <ClInclude Include="CElf.h">
+      <Filter>Header Files\Rasa</Filter>
+    </ClInclude>
+    <ClInclude Include="CGoblin.h">
+      <Filter>Header Files\Rasa</Filter>
+    </ClInclude>
+    <ClInclude Include="CHuman.h">
+      <Filter>Header Files\Rasa</Filter>
+    </ClInclude>
+    <ClInclude Include="ClasaFactory.h">
+      <Filter>Header Files\Clasa</Filter>
+    </ClInclude>
+    <ClInclude Include="RasaFactory.h">
+      <Filter>Header Files\Rasa</Filter>
+    </ClInclude>
+    <ClInclude Include="Character.h">
+      <Filter>Header Files\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="CharacterBuilder.h">
+      <Filter>Header Files\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyBuilder.h">
+      <Filter>Header Files\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="MainCharacterBuilder.h">
+      <Filter>Header Files\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>Header Files\Environment</Filter>
+    </ClInclude>
+    <ClInclude Include="Way.h">
+      <Filter>Header Files\Environment</Filter>
+    </ClInclude>
+    <ClInclude Include="Room.h">
+      <Filter>Header Files\Environment</Filter>
+    </ClInclude>
+    <ClInclude Include="Ability.h">
+      <Filter>Header Files\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="Atribute.h">
+      <Filter>Header Files\Character</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Bedroom.txt">
+      <Filter>Source Files\RoomsFiles</Filter>
+    </Text>
+    <Text Include="Rooms.txt">
+      <Filter>Source Files\RoomsFiles</Filter>
+    </Text>
+    <Text Include="Kitchen.txt">
+      <Filter>Source Files\RoomsFiles</Filter>
+    </Text>
+    <Text Include="Bathroom.txt">
+      <Filter>Source Files\RoomsFiles</Filter>
+    </Text>
+    <Text Include="Hallway.txt">
+      <Filter>Source Files\RoomsFiles</Filter>
+    </Text>
+    <Text Include="ArcherAb.txt">
+      <Filter>Source Files\AbilitiesFiles</Filter>
+    </Text>
+    <Text Include="ElfAb.txt">
+      <Filter>Source Files\AbilitiesFiles</Filter>
+    </Text>
+    <Text Include="FighterAb.txt">
+      <Filter>Source Files\AbilitiesFiles</Filter>
+    </Text>
+    <Text Include="GoblinAb.txt">
+      <Filter>Source Files\AbilitiesFiles</Filter>
+    </Text>
+    <Text Include="HumanAb.txt">
+      <Filter>Source Files\AbilitiesFiles</Filter>
+    </Text>
+    <Text Include="WizardAb.txt">
+      <Filter>Source Files\AbilitiesFiles</Filter>
+    </Text>
+    <Text Include="Instructions.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

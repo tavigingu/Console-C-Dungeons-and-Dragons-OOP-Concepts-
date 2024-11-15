@@ -1,0 +1,3 @@
+FIRE_ARROW 20 strength 12
+ARROWS_RAIN 35 intellect 18
+STUNNING_ARROW 15 dexterity 15

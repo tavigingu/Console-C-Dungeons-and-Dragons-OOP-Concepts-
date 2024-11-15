@@ -1,0 +1,4 @@
+Door Kitchen intellect 20
+Book Cartea_Magica intellect 16 intellect 2
+Statue Statuia_lui_DungeonMaster strength 22 dexterity 2
+Enemy Leu_Furios strength 16

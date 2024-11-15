@@ -1,0 +1,3 @@
+Book Abecedarul intellect 16 intellect 1
+Statue Statuia_Vrajitorului dexterity 18 dexterity 2
+Portal Bedroom strength 15

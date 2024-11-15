@@ -1,0 +1,22 @@
+Functia CreateMyHero apeleaza functiile builderului asemenea unui director,
+construind personajul prin selectarea cifrei corespunzatoare rasei, clase etc
+cu ajutorul unui Factory ce returneaza rasa, clasa etc si le salveaza abilitatile 
+(preluate din fisier). Unele abilitati (cele selectate de utilizator) vor fi 
+salvate in lista de abilitati a clasei Character.
+
+Functia createMap creeaza fiecare camera, iar apoi deschide un fisier
+corespunzator fiecarei camere unde se afla obictele regasite in camera. Functia 
+creeaza fiecare obiect din camera (care poate fi object:book, statue sau way:door, portal)
+si il adauga. In cazul inamicilor acestia se creaza cu ajutorul builderului EnemyBuilder
+care selecteaza random rasa, clasa, abtributele etc.
+
+Functia goAdventure. Jocul ruleaza cat timp utilizatorul interactioneaza cu un obiect,
+insa acesta se va termina in cazul in care playerul ramane cu 0 hp (Game over) sau
+in cazul in care toti inamicii sunt infranti (Jocul a fost castigat). Inainte de fiecare
+intercatiune se apeleaza functia din namespaceul Dice care calculeaza difficultyclassul
+pe care il compara cu diffclassul necesar pentru a avea loc actiunea.Pentru books sau
+statues (Daca are loc interactiunea), playerul isi va imbunatati un atribut in  functie
+de recompensa pe care o are fiecare obiect. In cazul interacctiunii cu un inamic (Fight) 
+utilizatorul va alege o abilitate cu care va efectua atacul daca (diffclassul minim va fi obtinut),
+iar apoi enemy-ul va ataca cu o abilitate aleasa random si tot asa pana cand unul dintre cei 
+doi vor ramane fara HP.

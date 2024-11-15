@@ -1,0 +1,3 @@
+PUNCH_KICK 20 intellect 16
+LEG_KICK 30 dexterity 15
+KNEE_KICK 40 strength 22

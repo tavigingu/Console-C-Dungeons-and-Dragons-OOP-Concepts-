@@ -1,0 +1,3 @@
+SWORD_ATTACK 30 strength 18
+DOUBLE_SWORDS 25 intelligence 14
+KNIFES_STORM 40 dexterity 21

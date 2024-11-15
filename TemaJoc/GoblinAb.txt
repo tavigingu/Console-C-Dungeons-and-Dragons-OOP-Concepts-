@@ -1,0 +1,3 @@
+BLACK_KNIFE 30 intellect 18
+HEADACHE 20 dexterity 16
+DIRTY_CLAW 25 strength 21
