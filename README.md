@@ -7,7 +7,7 @@ This project is a C++ console-based game inspired by Dungeons & Dragons. Players
 2. [Game Rules](#game-rules)
 3. [How to Play](#how-to-play)
 4. [Features](#features)
-
+5. [Game showcase](#game-showcase)
 ---
 
 ## Project Structure
@@ -78,4 +78,8 @@ This project uses Object-Oriented Programming (OOP) principles and design patter
 - **Singleton Pattern**: DungeonMaster centralizes control over game flow, avoiding multiple instances and ensuring data consistency.
 
 These OOP concepts and design patterns contribute to a modular game design, making it easier to add new features and modify existing ones without impacting the core game structure.
+
+## Game showcase
+
+![Create hero menu](TemaJoc/images/hero_cration.png)
 
