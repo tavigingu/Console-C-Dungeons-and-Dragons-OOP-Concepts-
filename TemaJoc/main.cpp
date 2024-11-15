@@ -5,8 +5,7 @@ int main()
 
 	try
 	{
-		cout << "<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<DUNGEONS AND DRAGONS>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>" << endl;
-		cout << endl;
+		cout << "<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<DUNGEONS AND DRAGONS>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>" << endl << endl;
 		
 		DungeonMaster::getInstance()->createMyHero();
 		DungeonMaster::getInstance()->createMap("Rooms.txt");

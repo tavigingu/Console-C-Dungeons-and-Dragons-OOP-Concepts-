@@ -24,6 +24,7 @@
     <ProjectGuid>{6ffdd738-6ee4-4fab-aebc-5d77b6fbb3ef}</ProjectGuid>
     <RootNamespace>TemaJoc</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>DungeonsAndDragons</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
