@@ -215,4 +215,18 @@
       <Filter>Source Files</Filter>
     </Text>
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="C:\Users\Tavi\OneDrive\Desktop\fighting_scene.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Tavi\OneDrive\Desktop\game_flow.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Tavi\OneDrive\Desktop\hero_creation.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Tavi\OneDrive\Desktop\objects_interractions.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
 </Project>

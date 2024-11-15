@@ -188,6 +188,12 @@
     <Text Include="Rooms.txt" />
     <Text Include="WizardAb.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="C:\Users\Tavi\OneDrive\Desktop\fighting_scene.png" />
+    <Image Include="C:\Users\Tavi\OneDrive\Desktop\game_flow.png" />
+    <Image Include="C:\Users\Tavi\OneDrive\Desktop\hero_creation.png" />
+    <Image Include="C:\Users\Tavi\OneDrive\Desktop\objects_interractions.png" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
