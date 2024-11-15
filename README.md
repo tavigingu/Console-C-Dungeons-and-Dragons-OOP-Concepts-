@@ -81,5 +81,8 @@ These OOP concepts and design patterns contribute to a modular game design, maki
 
 ## Game showcase
 
-![Create hero menu](images/hero_cration.png)
+![Create hero menu](images/hero_creation.png)
+![Game flow](images/game_flow.png)
+![Objects interractions](images/objects_interractions.png)
+![Fighting scene](images/fighting_scene.png)
 
